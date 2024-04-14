@@ -1,6 +1,7 @@
 #include <stdio.h>
 #pragma warning(disable: 4996)
 
+//This is the main
 int main() {
     int a = 0;
     int b = 0;
